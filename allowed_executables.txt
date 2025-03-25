@@ -1,0 +1,5 @@
+WeChat.exe
+chrome.exe
+notepad++.exe
+python.exe
+MySQLWorkbench.exe
